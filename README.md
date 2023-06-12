@@ -1,5 +1,4 @@
 # hello-world
-##** Me :**
+## Me :
 :joy:
-I am a ==student== who wants to ==see== some ==code== to learn *things*.
-![alt text](image.jpg)
+I am a student who wants to see some code to learn *things*.
